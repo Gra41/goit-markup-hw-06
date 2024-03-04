@@ -101,8 +101,8 @@ address {
     letter-spacing: 0.02em;
 }
 
-.sectionthree {
-    background-color: #F4F4FD;
+.sectionthree-link {
+    background-color: #FFFFFF;
 }
 
 .sectionthree-hh {
@@ -112,10 +112,6 @@ address {
     text-align: center;
     color: #2E2F42;
     text-transform: capitalize;
-}
-
-.sectionthree-list {
-    background-color: #FFFFFF;
 }
 
 .sectionthree-h {
