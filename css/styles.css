@@ -102,7 +102,7 @@ address {
 }
 
 .sectionthree {
-    background-color: #FFFFFF;
+    background-color: #F4F4FD;
 }
 
 .sectionthree-hh {
@@ -127,6 +127,7 @@ address {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    background-color: #FFFFFF;
 }
 
 .sectionfour-hh {
@@ -182,5 +183,5 @@ footer {
     font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #4D5AE5;
+    color: #F4F4FD;
 }
