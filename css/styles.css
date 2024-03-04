@@ -114,6 +114,10 @@ address {
     text-transform: capitalize;
 }
 
+.sectionthree-list {
+    background-color: #FFFFFF;
+}
+
 .sectionthree-h {
     color: #2E2F42;
     font-size: 20px;
