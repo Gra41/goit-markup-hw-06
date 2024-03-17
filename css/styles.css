@@ -117,6 +117,16 @@ address {
 .sectionone {
     background-color: #2e2f42;
     padding: 188px 0;
+    cursor: pointer;
+    padding-bottom: 188px;
+    padding-top: 188px;
+    background-image: linear-gradient(rgba(46, 47, 66, 0.7),
+            rgba(46, 47, 66, 0.7)),
+        url(../images/people-office.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 1440px;
+    background-position: center;
 }
 
 .sectionone-hh {
